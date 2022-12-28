@@ -1,0 +1,16 @@
+{
+  "name": "gun-relay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "relay.js",
+  "type": "module",
+  "scripts": {
+    "start": "node relay.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gun-vue/relay": "^0.4.0"
+  }
+}
