@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@gun-vue/relay": "^0.4.0"
+    "@gun-vue/relay": "^0.4.1"
   }
 }
